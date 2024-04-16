@@ -20,6 +20,8 @@ __pycache__
 selenium/
 *.csv
 *.xlsx
+*.xls
+*.zip
 
 contraseñas.txt
 pass_.py
